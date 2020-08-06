@@ -1,6 +1,6 @@
 package Recursion;
 
-public class Power { //°ÅµìÁ¦°ö
+public class Power { //ê±°ë“­ì œê³±
 
 	// x^n
 	// x^0 = 1
