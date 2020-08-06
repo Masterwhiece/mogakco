@@ -1,6 +1,6 @@
 package Recursion;
 
-public class Factorial { //ÆÑÅä¸®¾ó
+public class Factorial { //íŒ©í† ë¦¬ì–¼
 
 	// n Factorial : n!
 	// 0! = 1
